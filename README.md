@@ -2,6 +2,13 @@
 
 Measure performance and showcase the difference between results without boilerplate.
 
+
+
+![timesup_duper_demo](https://user-images.githubusercontent.com/36469655/215218569-1f833d77-d974-49ab-98cf-a03d9ab32899.gif)
+
+
+
+
 ### 🚧 Project is in development
 There's no source code available yet.
 
